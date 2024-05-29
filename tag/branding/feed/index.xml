@@ -9,8 +9,8 @@
 
 <channel>
 	<title>branding &#8211; Himaru Hansaka Fernando | UI / Web Designer</title>
-	<atom:link href="/tag/branding/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/himaru-fernando/tag/branding/feed/" rel="self" type="application/rss+xml" />
+	<link>/himaru-fernando/</link>
 	<description></description>
 	<lastBuildDate>Thu, 24 Sep 2020 20:06:20 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 	<item>
 		<title>Why You Should Take Care About Your Branding.</title>
-		<link>/why-you-should-take-care-about-your-branding/</link>
-					<comments>/why-you-should-take-care-about-your-branding/#respond</comments>
+		<link>/himaru-fernando/why-you-should-take-care-about-your-branding/</link>
+					<comments>/himaru-fernando/why-you-should-take-care-about-your-branding/#respond</comments>
 		
 		<dc:creator><![CDATA[himaru]]></dc:creator>
 		<pubDate>Thu, 24 Sep 2020 20:06:20 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<category><![CDATA[wordpress]]></category>
 		<guid isPermaLink="false">https://arter-demo.bslthemes.com/?p=146</guid>
 
-					<description><![CDATA[My job is simple and sophisticated, so it is possible to describe and simple, and flowery language. I love the... <div class="art-el-more"><a href="/why-you-should-take-care-about-your-branding/" class="art-link art-color-link art-w-chevron">Read more</a></div>]]></description>
+					<description><![CDATA[My job is simple and sophisticated, so it is possible to describe and simple, and flowery language. I love the... <div class="art-el-more"><a href="/himaru-fernando/why-you-should-take-care-about-your-branding/" class="art-link art-color-link art-w-chevron">Read more</a></div>]]></description>
 										<content:encoded><![CDATA[
 <p>My job is simple and sophisticated, so it is possible to describe and simple, and flowery language. I love the feel and sophistication of its superiority. I like people with a keen mind and at the same time easy to talk to. These qualities can be combined perfectly natural. However, things like people look miserable, if these properties are connected to them artificially.</p>
 
@@ -63,7 +63,7 @@
 <p>A designer is an emerging synthesis of artist, inventor, mechanic, objective economist, and evolutionary strategist.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/why-you-should-take-care-about-your-branding/feed/</wfw:commentRss>
+					<wfw:commentRss>/himaru-fernando/why-you-should-take-care-about-your-branding/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
