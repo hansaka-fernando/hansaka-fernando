@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Himaru Hansaka Fernando | UI / Web Designer</title>
-	<atom:link href="/himaru-fernando/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/himaru-fernando/</link>
+	<atom:link href="/hansaka-fernando/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/hansaka-fernando/</link>
 	<description></description>
 	<lastBuildDate>Thu, 07 Mar 2024 06:11:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/himaru-fernando/hello-world/</link>
-					<comments>/himaru-fernando/hello-world/#comments</comments>
+		<link>/hansaka-fernando/hello-world/</link>
+					<comments>/hansaka-fernando/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[himaru]]></dc:creator>
 		<pubDate>Thu, 07 Mar 2024 06:11:05 +0000</pubDate>
@@ -34,7 +34,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/himaru-fernando/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/hansaka-fernando/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
