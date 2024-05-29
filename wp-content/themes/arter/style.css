@@ -138,6 +138,11 @@ h6 {
     word-wrap: break-word;
 }
 
+img.art-banner-photo {
+    display: none;
+}
+
+
 h1 {
 	font-size: 52px;
 	font-weight: 800;
